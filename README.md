@@ -12,7 +12,10 @@ Other hobbies of mine include playing basketball, games and hanging out with fri
 <br/>  
 
 ### What I'm up to
-- I’m working on a [Next.js](https://github.com/LucasLobell/doc_edit) project    
+- I’m working on these projects:
+   - [Inventory Management](https://github.com/LucasLobell/NextInventoryManagement1)
+   - [Collaborative Editor](https://github.com/LucasLobell/doc_edit)
+   - [AMA](https://github.com/LucasLobell/GoReact_ama)
 
 - I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" height=20 /> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" height=20 />  
 
