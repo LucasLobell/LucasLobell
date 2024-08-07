@@ -1,44 +1,24 @@
-## Hey 👋, I'm Lucas Lobell  
-  
+## Hello there! 👋, I'm Lucas Lobell  
 
-<a href="https://github.com/LucasLobell" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/lucaslobell" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/lucaslobell" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+[![Gmail Badge](https://img.shields.io/badge/lucaslobell2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaslobell2@gmail.com)](mailto:lucaslobell2@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/lucaslobell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lobell/)](https://www.linkedin.com/in/lucas-lobell/)
+[![GitHub](https://img.shields.io/badge/LucasLobell-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/LucasLobell)](https://github.com/LucasLobell)
 
-
-
-### Glad to see you here!  
+### About me   
 I'm a passionate Full Stack/Frontend-heavy developer who started developing as a hobby and currently aim to make a living out of it.
 🎯 
 
-Other hobbies of mine include playing basketball, games and hanging out with friends 😊  
-  
-
+Other hobbies of mine include playing basketball, games and hanging out with friends 😊    
 <br/>  
 
+### What I'm up to
+- I’m working on a [Next.js](https://github.com/LucasLobell/doc_edit) project    
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+- I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" height=20 /> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" height=20 />  
 
-- I’m currently working on a [Next.js](https://github.com/LucasLobell/doc_edit) project  
-  
+<br/>   
 
-- I’m currently learning Three.js and Go  
-
-
-</td><td valign="top" width="50%">
-
-<br/>  
-
-
-## Languages and Tools  
+### Languages and Technologies
 <div align="left">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -61,27 +41,6 @@ Other hobbies of mine include playing basketball, games and hanging out with fri
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLobell&hide_border=true&layout=compact" align="left" />
 
-</td><td valign="top" width="50%">
-
-
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
