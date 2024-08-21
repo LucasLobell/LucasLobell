@@ -5,10 +5,10 @@
 [![GitHub](https://img.shields.io/badge/LucasLobell-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/LucasLobell)](https://github.com/LucasLobell)
 
 ### About me   
-I'm a passionate Full Stack/Frontend-heavy developer who started developing as a hobby and currently aim to make a living out of it.
+I'm a passionate Full Stack/Frontend-heavy web developer who started developing as a hobby and currently aim to make a living out of it.
 🎯 
 
-Other hobbies of mine include playing basketball, games and hanging out with friends 😊    
+Other hobbies of mine include playing basketball, games and hanging out with friends. 😊    
 <br/>  
 
 ### What I'm up to
@@ -19,6 +19,7 @@ Other hobbies of mine include playing basketball, games and hanging out with fri
 
 - I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" height=20 /> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" height=20 />  
 
+- I'm always trying to learn more and improve my abilities. 😎 
 <br/>   
 
 ### Languages and Technologies
