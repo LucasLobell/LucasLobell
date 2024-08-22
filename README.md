@@ -13,7 +13,7 @@ Other hobbies of mine include playing basketball, games and hanging out with fri
 
 ### What I'm up to
 - I’m working on these projects:
-   - [Inventory Management](https://github.com/LucasLobell/next_IM)
+   - [School Management](https://github.com/LucasLobell/SchlManagement)
    - [Collaborative Editor](https://github.com/LucasLobell/doc_edit)
    - [React Native App](https://github.com/LucasLobell/react_native_aora)
 
