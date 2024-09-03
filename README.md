@@ -5,8 +5,8 @@
 [![GitHub](https://img.shields.io/badge/LucasLobell-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/LucasLobell)](https://github.com/LucasLobell)
 
 ### About me   
-I'm a passionate Full Stack/Frontend-heavy web developer who started developing as a hobby and currently aim to make a living out of it.
-🎯 
+I'm a passionate Web Developer who started developing as a hobby and currently aim to make a living out of it. 🎯
+
 
 Other hobbies of mine include playing basketball, games and hanging out with friends. 😊    
 <br/>  
