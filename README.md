@@ -15,6 +15,7 @@ Other hobbies of mine include playing basketball, games and hanging out with fri
 - I’m working on these projects:
    - [Food Delivery Shop](https://github.com/LucasLobell/FoodDelivery)
    - [Collaborative Editor](https://github.com/LucasLobell/doc_edit)
+   - [School Management](https://github.com/LucasLobell/SchlManagement)
    - [React Native App](https://github.com/LucasLobell/react_native_aora)
 
 - I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" height=20 /> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" height=20 />  
