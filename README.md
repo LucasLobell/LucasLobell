@@ -25,7 +25,7 @@ Other hobbies of mine include playing basketball, games and hanging out with fri
 
 ### Languages and Technologies
 <div align="left">  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://vercel.com/mktng/_next/static/media/logo-nextjs-logo-dark.fa9d7fb9.svg" alt="NextJS" width="25" height="25" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="Next.js" width="25" height="25" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="25" height="25" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="25" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="25" height="25" /></a>  
